@@ -4,7 +4,7 @@
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@color/purple_200"
+    android:background="@color/purple_500"
     android:padding="@dimen/default_space_padding"
     android:layout_margin="@dimen/default_space_padding">
 
